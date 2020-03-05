@@ -1,0 +1,16 @@
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\ReactSimple.WebApi.deps.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\ReactSimple.WebApi.runtimeconfig.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\ReactSimple.WebApi.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\ReactSimple.WebApi.dll
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.RazorAssemblyInfo.cache
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.RazorAssemblyInfo.cs
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.AssemblyInfo.cs
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\bin\Debug\netcoreapp2.2\ReactSimple.WebApi.pdb
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.dll
+C:\Users\Murad\source\repos\ReactSimple.WebApi\ReactSimple.WebApi\obj\Debug\netcoreapp2.2\ReactSimple.WebApi.pdb
